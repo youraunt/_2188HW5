@@ -6,7 +6,6 @@
 
 #include <utility>
 
-#define LOADED  "\nYour file has loaded successfully!\n"
 
 /// @brief
 /// @param wordList
@@ -211,4 +210,3 @@ bool enterProgram(int argc, char **argv, std::ifstream &infile) {
     return false;
 }
 
-#undef LOADED
