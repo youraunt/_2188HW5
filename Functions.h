@@ -1,5 +1,6 @@
 //
 // Created by BK Allen on 3/7/20.
+// See implementation file for documentation
 //
 
 #ifndef _2188HW5_FUNCTIONS_H
@@ -22,7 +23,7 @@ unsigned int mainMenu(unsigned int choice);
 
 unsigned int sub_Menu();
 
-unsigned int search_Sub_Menu(std::list<DictEntry> &list, std::list<DictEntry> &list1, wordType &wordType);
+unsigned int search_Sub_Menu();
 
 std::string getFileName(int argc, char **argv);
 

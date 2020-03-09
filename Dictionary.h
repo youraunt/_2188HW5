@@ -1,5 +1,6 @@
 //
 // Created by BK Allen on 3/5/20.
+// See implementation file for documentation
 //
 
 #ifndef _2188HW5_DICTIONARY_H

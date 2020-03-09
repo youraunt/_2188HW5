@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2421 Data Structures/_2188HW5/DictEntry.h
+string
+-
+utility
+-
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2421 Data Structures/_2188HW5/Dictionary.h
+DictEntry.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2421 Data Structures/_2188HW5/DictEntry.h
+Functions.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2421 Data Structures/_2188HW5/Functions.h
+iostream
+-
+fstream
+-
+list
+-
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2421 Data Structures/_2188HW5/Functions.cpp
+Functions.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2421 Data Structures/_2188HW5/Functions.h
+utility
+-
+
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2421 Data Structures/_2188HW5/Functions.h
+Dictionary.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2421 Data Structures/_2188HW5/Dictionary.h
+DictEntry.h
+/Users/bkallen/Desktop/gDriveDB/2020/Spring/CSCI-2421 Data Structures/_2188HW5/DictEntry.h
+cstdio
+-
+algorithm
+-
+cassert
+-
+iostream
+-
+fstream
+-
+list
+-
+

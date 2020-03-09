@@ -1,5 +1,6 @@
 //
 // Created by BK Allen on 3/5/20.
+// File provided
 //
 
 #ifndef _2188HW5_DICTENTRY_H
